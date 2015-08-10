@@ -10,7 +10,7 @@ if (!isValidInput(input)) {
 var num;
 var numStr;
 var numText   = '';
-var convertor = require('./convertor.js');
+var convertor = require('./lib/convertor.js');
 var SPACE     = ' ';
 
 //Need to reverse string so regex matches from right to left

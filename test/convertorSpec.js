@@ -1,5 +1,5 @@
 var expect    = require('chai').expect;
-var convertor = require('../convertor.js');
+var convertor = require('../lib/convertor.js');
 
 describe('convertor', function() {
   var result;
